@@ -1,0 +1,16 @@
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.exe
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.deps.json
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.runtimeconfig.json
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.runtimeconfig.dev.json
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.dll
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\ref\CaseStudy.dll
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\bin\Debug\net5.0\CaseStudy.pdb
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.AssemblyInfo.cs
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.dll
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\ref\CaseStudy.dll
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.pdb
+C:\Swinburne_University\2022-HS1-COS20007-Object Oriented Programming (Semester 1)\Projects\CASE STUDY\IdentifiableObject\obj\Debug\net5.0\CaseStudy.genruntimeconfig.cache
